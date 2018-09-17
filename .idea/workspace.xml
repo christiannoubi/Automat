@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2a7f2f0-baf9-4855-8627-d912a93d5720" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GetraenkeAutomat.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/Chocolate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/Coffee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/MyBot.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/ProductCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/ProductEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/GetraenkeAutomat/SomeClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyBot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProductEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SomeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +17,8 @@
       <file leaf-file-name="SomeClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SomeClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+            <state relative-caret-position="837">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -240,12 +222,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536750291935</updated>
       <workItem from="1536750303778" duration="6524000" />
-      <workItem from="1537183887617" duration="645000" />
+      <workItem from="1537183887617" duration="2121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7169000" />
+    <option name="totallyTimeSpent" value="8645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-5120" y="-517" width="2560" height="1417" extended-state="6" />
@@ -261,7 +243,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32948422" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32948422" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32948422" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13476874" />
@@ -376,8 +358,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SomeClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <state relative-caret-position="837">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
